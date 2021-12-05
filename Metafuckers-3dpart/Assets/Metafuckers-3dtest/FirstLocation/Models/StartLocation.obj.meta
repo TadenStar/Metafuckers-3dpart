@@ -1,0 +1,295 @@
+fileFormatVersion: 2
+guid: db36a25e71a807e4287c88f65d8a830b
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CRN.12_-_Defaultefqwd56
+    second: {fileID: 2100000, guid: edb50cfa0e5318242a11cfd0442158a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Celling_Black
+    second: {fileID: 2100000, guid: f9fbbd6f60b017d47bfcb987b22827f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightsCircle_GlassEmission
+    second: {fileID: 2100000, guid: 9a3499fb6d60db44aba7f5800b951062, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LightsLines_GlassEmission
+    second: {fileID: 2100000, guid: 9ab7e0a3cdd536446abdb89fd270c6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lights_Body
+    second: {fileID: 2100000, guid: 444f70a47edce3d4dac8e79c4ad1d182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Little_TV_Lines
+    second: {fileID: 2100000, guid: 13db114c9b665ed47a068fc3628c3b27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Little_TV_Screens_01
+    second: {fileID: 2100000, guid: 0fdf87d1712abd44ea257d2f71cfb880, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Little_TV_Screens_02
+    second: {fileID: 2100000, guid: 4b2914917a724524da5b8a7f2db83711, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: None
+    second: {fileID: 2100000, guid: d00b517d6260b12488af7e11c1790550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Podium_Floor
+    second: {fileID: 2100000, guid: 18f9a7d104effdb48a8985e7c71c86bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Podium_Lines_01
+    second: {fileID: 2100000, guid: dec90cb9910168942bb8d038abce0631, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Podium_Lines_02
+    second: {fileID: 2100000, guid: d0b3e45145ca2104490e1f84dccc9920, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Podium_Lines_03
+    second: {fileID: 2100000, guid: 2476f419bbbb2684886a12946fb64ec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Podium_Table
+    second: {fileID: 2100000, guid: f9853ab6e43872b4ba6b8c4636e35ca7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TVPanel_Body_01
+    second: {fileID: 2100000, guid: 2744b6acede6cc547ab78bab456f974f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TVPanel_Body_02
+    second: {fileID: 2100000, guid: 27e275d231cba6345aff70dad9dc13bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TVPanel_Lights
+    second: {fileID: 2100000, guid: 107715477ee0e9949bda6d33f0797aac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Frame
+    second: {fileID: 2100000, guid: 680b23563f883a946932e7aaa65e5121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Screen_01
+    second: {fileID: 2100000, guid: c33200b6245590b4fb86db1e1367416b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Screen_02
+    second: {fileID: 2100000, guid: f304438c627311c4a831dac1fd534692, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Screen_03
+    second: {fileID: 2100000, guid: 691877030ed843849a518c8eea506733, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Screen_04
+    second: {fileID: 2100000, guid: d95f24d7cdc97a6498afdb66daec9d99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Screen_05
+    second: {fileID: 2100000, guid: 4609257ed2f6da4409a8157f44404686, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Screen_06
+    second: {fileID: 2100000, guid: 055a093802495194d9e7d5029c79e136, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Screen_07
+    second: {fileID: 2100000, guid: 844cb12142034b847a7aaf52e6d775f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Screen_08
+    second: {fileID: 2100000, guid: 6d9b6ecb76b15d845a0b60a7611adad6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_Vody
+    second: {fileID: 2100000, guid: a380f3e508dbf5c4d8ad2ef2da16f832, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TableBox_Body
+    second: {fileID: 2100000, guid: 8e64c751808fc4547a8e690fcf39a64e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Panels
+    second: {fileID: 2100000, guid: 6f30d0f8f7a96fe429b0b0b3087923fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallsTV_Frame
+    second: {fileID: 2100000, guid: 89a7af13aa6235341b5f08e9f8dd1b55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallsTV_Screen_01
+    second: {fileID: 2100000, guid: e3f0ea26ca0b75e47b09d9ef64c5e5c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallsTV_Screen_02
+    second: {fileID: 2100000, guid: 8e8b8154bb835fe4dbf7db55b2b676c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WallsWindow_Frame
+    second: {fileID: 2100000, guid: b66095e50826f754a9ff028bd7fe9246, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_01
+    second: {fileID: 2100000, guid: f09620d470c67cc4ea35b190e3d6d417, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_02
+    second: {fileID: 2100000, guid: d02d1b947482e934684afb830b98bb39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_Collums
+    second: {fileID: 2100000, guid: 6b255cc3a9e8953438bdec6f17aa5103, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_Lights
+    second: {fileID: 2100000, guid: 75db5009e943a2f47b640ac9ecc55479, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_Window_01
+    second: {fileID: 2100000, guid: 819897403e1cd9a4691a7c7bf184747c, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 0
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
